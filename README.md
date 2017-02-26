@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+Generates an image 250px x 250px with a 5x5 grid of squares, each 50px tall and wide.
 
 ## Installation
 
@@ -16,4 +16,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/identicon](https://hexdocs.pm/identicon).
-
