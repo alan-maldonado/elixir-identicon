@@ -8,7 +8,7 @@ iex -S mix
 ```
 
 Create an identicon
-```
+```elixir
 iex> Identicon.main("alan")
 ```
 
