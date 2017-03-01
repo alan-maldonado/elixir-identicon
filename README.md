@@ -2,6 +2,18 @@
 
 Generates an image 250px x 250px with a 5x5 grid of squares, each 50px tall and wide.
 
+Start the application
+```
+iex -S mix
+```
+
+Create an identicon
+```
+iex> Identicon.main("alan")
+```
+
+Browse over the folder profiles, and look for the `png` file.
+
 ## Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
